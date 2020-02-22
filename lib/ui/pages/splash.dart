@@ -31,7 +31,7 @@ class _SplashPageState extends State<SplashPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Text('Slash Page'),
+        child: Text('Spash Page'),
       ),
     );
   }
